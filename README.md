@@ -1,2 +1,3 @@
-# arshORnot
-are you arsh? only one way to find out
+# arsh || not
+
+Do you think you are Arsh? Only one way to find out...
